@@ -5,7 +5,7 @@ robotlegs-arkanoid-game
 
 How to use it?
 -------------
-It is an ActionScript 3.0 Project just download it and import it to flash builder (I sued Flashbuilder 4.7)
+It is an ActionScript 3.0 Project just download it and import it to flash builder (I used Flashbuilder 4.7)
 
 LICENSE
 -------
